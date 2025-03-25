@@ -1,4 +1,6 @@
-https://marketplace.visualstudio.com/items?itemName=xyz.plsql-language
+https://marketplace.visualstudio.com/items?itemName=xyz.plsql-language 
+
+Use this VS Code extension for navigation
 
 
 
