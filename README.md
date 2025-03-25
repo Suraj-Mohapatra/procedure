@@ -1,5 +1,6 @@
 Use this VS Code extension for navigation :
-https://marketplace.visualstudio.com/items?itemName=xyz.plsql-language
+https://marketplace.visualstudio.com/items?itemName=xyz.plsql-language 
+https://github.com/zabel-xyz/plsql-language.git
 
 
 
